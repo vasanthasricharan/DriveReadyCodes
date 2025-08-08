@@ -1,0 +1,8 @@
+# KERNEL: Generated a=0 b=0
+# KERNEL: Generated a=0 b=1
+# KERNEL: Generated a=1 b=0
+# KERNEL: Generated a=1 b=1
+# KERNEL: Driving a=0 b=0 and output sum=0 carry=0
+# KERNEL: Driving a=0 b=1 and output sum=1 carry=0
+# KERNEL: Driving a=1 b=0 and output sum=1 carry=0
+# KERNEL: Driving a=1 b=1 and output sum=0 carry=1
