@@ -1,0 +1,2 @@
+# KERNEL: Generator Test Cases a=5,b=5
+# KERNEL: Driver applied : a=5 b=5 and Dut output c=10
